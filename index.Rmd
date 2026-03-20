@@ -1,0 +1,25 @@
+---
+title: "Animint Gallery"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(animint2)
+---
+
+Animint Gallery
+
+This gallery contains animint visualizations.
+
+
+👉 Do NOT overcomplicate  
+👉 `update_gallery()` will fill everything
+
+---
+
+# 💻 STEP 3 — Clone repo locally (REQUIRED)
+
+```bash
+git clone https://github.com/YOUR_USERNAME/animint-gallery.git
+cd animint-gallery
+git checkout gh-pages
